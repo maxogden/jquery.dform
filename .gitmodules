@@ -1,0 +1,3 @@
+[submodule "demo/uniform"]
+	path = demo/uniform
+	url = https://github.com/pixelmatrix/uniform.git
